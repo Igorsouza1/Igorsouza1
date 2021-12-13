@@ -1,8 +1,8 @@
 ## Hi there, i'm Igor Souza 👋
 <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"/>
 
-- 🔭 Front-end Developer
-- 🌱 I’m currently learning about React and Java
+- 🔭 Back-end Developer
+- 🌱 I’m currently learning about Java
 - 👯 I’m looking to collaborate on WebSite
 
 
