@@ -1,10 +1,16 @@
 ## Hi there, i'm Igor Souza 👋
 <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"/>
 
-- 🔭 Back-end Developer
-- 🌱 I’m currently learning about Java
-- 👯 I’m looking to collaborate on WebSite
+🔭 Back-end Developer
+ - Atualmente estou focado em me tornar um desevolvedor Java, estudo analise e desenvolvimento de sistemas no IFMS Corumbá, já desenvolvi alguns projetos com React que estudei junto com a rocketseat 🚀, tanto com seus eventos como com o seu curso Ignite 🧑‍🚀. 
 
+💡 About
+ - Gosto de ler sobre programação, realização pessoal, finanças e ficção cientifica.
+ 
+ Me siga tambem em:
+ 
+<!--![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)-->
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorsouza1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
