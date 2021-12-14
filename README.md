@@ -7,9 +7,9 @@
 💡 About
  - Gosto de ler sobre programação, realização pessoal, finanças e ficção cientifica.
  
- Me siga tambem em:
+ <!--!Me siga tambem em:
  
-<!--![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)-->
+[Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)-->
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorsouza1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
