@@ -6,24 +6,8 @@
 💡 About
  - Gosto de ler sobre programação, realização pessoal, finanças e ficção cientifica.
  
- <!--!Me siga tambem em:
- 
-[Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)-->
- 
+/*Competência com nome simples*/
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
-
-<!--
-**Igorsouza1/Igorsouza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsouza1&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/*Competência com nome composto*/
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
