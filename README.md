@@ -2,8 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Igor sou desenvolvedor Back-end focado no desenvolvimento web com <strong>Java</strong> e <strong>Spring Boot</strong>.<br>
-  Atualmente faço Analise e Desenvolvimento de sistemas no Instituto Federal de Mato Grosso do Sul(IFMS) e trabalho como Assistene de TI <br>
-  para uma rede de postos de gasolina.
+  Atualmente faço Analise e Desenvolvimento de sistemas no Instituto Federal de Mato Grosso do Sul(IFMS) e trabalho como Assistene de TI para uma rede de postos de gasolina.
 </p>
 
 <p align="left">
