@@ -7,11 +7,12 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Java e Javascript.</strong>
+  💻 Linguagens: <strong>![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Spring Boot.</strong>
+  💼 Ferramentas: <strong>![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
+  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)</strong>
 </p>
 
 <p align="left">
@@ -22,7 +23,5 @@
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-souza1/" /></a>
 </p>  
- 
-<a href="https://www.linkedin.com/in/igor-souza1/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
+
+
