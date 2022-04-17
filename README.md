@@ -16,6 +16,7 @@
 <p align="left">
   💌 Pode entrar em contato pelo meu Linkedin: ⤵️
 </p>
+
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
