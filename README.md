@@ -1,30 +1,24 @@
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# Olá! Eu sou o Igor Souza 👋
 
-<p align="left"> 
-  Olá, meu nome é Igor sou desenvolvedor Back-end focado no desenvolvimento web com <strong>Java</strong> e <strong>Spring Boot</strong>.<br>
-  Atualmente faço Analise e Desenvolvimento de sistemas no Instituto Federal de Mato Grosso do Sul(IFMS) e trabalho como Assistene de TI para uma rede de postos de gasolina.
-</p>
+## Sobre mim 🚀
 
-<p align="left">
-  💻 Linguagens: <strong>Java</strong>
-</p>
+Tenho 22 anos e sou apaixonado por programação. Comecei a estudar no campo da tecnologia em 2018, no curso de Análise e Desenvolvimento de Sistemas no IFMS. Desde então, venho aprimorando minhas habilidades em diversas linguagens, como C, Java, Python e JavaScript.
 
-<p align="left">
-  💼 Ferramentas: <strong>Spring Boot, Git e MySQL</strong>
-</p>
+👨‍💻 Minhas experiências profissionais incluem atuação como Suporte de TI na SOS Informática e estágio como desenvolvedor na Embrapa Pantanal, onde trabalhei com Vue.js, Service Worker e Machine Learning.
 
-<p align="left">
-  💌 Pode entrar em contato pelo meu Linkedin: ⤵️
-</p>
+🎓 Realizei cursos em áreas como Inteligência Artificial, Web Design e Desenvolvimento Web Full Stack, sempre buscando aprimorar minhas habilidades e conhecimentos.
 
-<a href="https://www.linkedin.com/in/igor-souza1" alt="linkedin" target="_blank">
+🌱 Atualmente, estou em busca de oportunidades como Programador Júnior, onde possa contribuir com meu conhecimento e crescer profissionalmente.
 
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+## Tecnologias e Ferramentas ⚙️
 
-</a>
+- 🌐 Front-end: HTML | CSS | Vue.js
+- 🛢️ Back-end: Node.js | MongoDB | Java | MySqL
+- 🤖 Machine Learning: Pandas | scikit-learn | TensorFlow
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+## Entre em contato 📫
 
+Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de trabalho ou trocar ideias sobre tecnologia e desenvolvimento.
 
+- 📧 Email: [igor1_souza@hotmail.com](mailto:meuemail@email.com)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/igor-souza1/](https://www.linkedin.com/in/seu-username)
