@@ -20,5 +20,5 @@ Tenho 22 anos e sou apaixonado por programação. Comecei a estudar no campo da 
 
 Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de trabalho ou trocar ideias sobre tecnologia e desenvolvimento.
 
-- 📧 Email: [igor1_souza@hotmail.com](mailto:meuemail@email.com)
-- 🌐 LinkedIn: [https://www.linkedin.com/in/igor-souza1/](https://www.linkedin.com/in/seu-username)
+- 📧 Email: [igor1_souza@hotmail.com](mailto:igor1_souza@hotmail.com)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/igor-souza1/](https://www.linkedin.com/in/igor-souza1/)
