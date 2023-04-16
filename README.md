@@ -1,4 +1,4 @@
-# Olá! Eu sou o Igor Souza 👋
+# Olá! Eu sou o Igor 👋
 
 ## Sobre mim 🚀
 
